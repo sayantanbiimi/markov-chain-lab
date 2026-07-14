@@ -2,6 +2,8 @@
 
 An interactive Shiny app for teaching recurrent and transient states.
 
+Copyright: Sayantan Banerjee, IIM Indore
+
 ## Run locally
 
 ```r
@@ -14,7 +16,7 @@ exact structural classification, sample paths, finite-horizon return
 probabilities, transition-matrix powers, and a simulation of the biased random
 walk on the integers.
 
-## Classroom prompts
+## Classroom activities
 
 1. In the “one transient state” example, keep rerunning paths from state 1.
    Can a path return even though the state is transient?
