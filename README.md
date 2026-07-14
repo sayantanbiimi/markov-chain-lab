@@ -1,6 +1,6 @@
 # Markov Chain Lab
 
-An interactive Shiny app for teaching recurrent and transient states.
+An interactive Shiny app for teaching recurrent and transient states: https://sayantanbiimi.github.io/markov-chain-lab/
 
 Copyright: Sayantan Banerjee, IIM Indore
 
